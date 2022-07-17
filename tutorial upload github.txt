@@ -1,0 +1,14 @@
+pkg install git
+termux-setup-storage
+cd /sdcard
+cd (nama file kalian)
+git config --global user.email "zassxd13@gmail.com"
+git config --global user.name "ZassXd"
+git init
+git add *
+git commit -m "(nama file)"
+git remote add origin (di github lanjutannya)
+git push origin master
+username : ZassXd
+pasword : Token bukan pasword
+( Cara Dapetin Token Cek Video )
